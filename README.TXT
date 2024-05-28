@@ -3,8 +3,8 @@
 ## Descripción del Proyecto
 Este proyecto es un sistema de reservas de ambientes. 
 El sistema permite notificar a los usuarios sobre el estado de sus reservas.
-Se esta utlizando como lenguaje java y como entorno de desarrollo (IDE) BlueJ .
-Consta de patrones de diseño, principios SOLID y arquitectura de tres capas , las cuales se daran detalles mas adelante.
+Se está utilizando como lenguaje Java y como entorno de desarrollo (IDE) BlueJ.
+Consta de patrones de diseño, principios SOLID y arquitectura de tres capas, las cuales se darán detalles más adelante.
 
 ## Arquitectura de tres capas
 El proyecto tiene una arquitectura de tres capas:
