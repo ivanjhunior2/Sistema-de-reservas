@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ReservaDeAmbiente
+comment1.params=nombre\ descripcion
+comment1.target=ReservaDeAmbiente(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ completarReserva()
+numComments=3

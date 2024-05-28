@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GestorDeReservas
+comment1.params=
+comment1.target=GestorDeReservas()
+comment2.params=
+comment2.target=GestorDeReservas\ obtenerInstancia()
+comment3.params=reserva
+comment3.target=void\ agregarReserva(Reserva)
+comment4.params=reserva\ notificable
+comment4.target=void\ asignarReserva(Reserva,\ Notificable)
+comment5.params=reserva
+comment5.target=void\ completarReserva(Reserva)
+comment6.params=observador
+comment6.target=void\ agregarObservador(Observador)
+comment7.params=observador
+comment7.target=void\ eliminarObservador(Observador)
+comment8.params=mensaje
+comment8.target=void\ notificarObservadores(java.lang.String)
+comment9.params=
+comment9.target=void\ imprimirReservas()
+numComments=10

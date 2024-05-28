@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NotificacionUrgente
+comment1.params=implementacion
+comment1.target=NotificacionUrgente(datos.NotificacionImplementacion)
+comment2.params=mensaje
+comment2.target=void\ enviar(java.lang.String)
+numComments=3
